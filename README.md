@@ -15,8 +15,6 @@ In this project I was given a web-based application that reads RSS feeds.
 Simply open the index.html file in any browser, the feed reader will load and the Jasmine tests will commence.
 ***The testing portion will appear below the Feed itself, at the bottom of the page***, and its start will be indicated by the word "Jasmine".
 
-![images of the Jasmine tests that were run, with their status and specs](img/tests.png)
-
 *To the far right of the words* Jasmine, you should note that the all tests have completed by the words "***finished in x.xxxs***" which will be indicative of the time it took to run all the tests.
 
 #### There are three places that provide information of the status of each tests:
@@ -24,6 +22,9 @@ Simply open the index.html file in any browser, the feed reader will load and th
  1. Each test will have either a red X or a green dot, just under the words Jasmine, which is also indicative of a pass or fail.  A red X signifies a failing test, while a green dot signifies a test passing.
  2. *Just below the words* Jasmine and the green dots and/or red x's there is a green heading that will state the number of tests, followed by the number of tests that failed.
  3. Finally, you will note the words -   **Jasmine__TopLevel__Suite**, under which you will find each section of the code that was tested, followed by the specifications(specs) for each test that was ran on the pre-existing code.
+
+ ![images of the Jasmine tests that were run, with their status and specs](img/tests.png)
+
 
 ## Why this Project?
 
